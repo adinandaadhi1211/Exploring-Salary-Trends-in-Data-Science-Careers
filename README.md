@@ -22,7 +22,9 @@ market landscape.
 
 ## Libraries Used
 Data Manipulation: pandas, numpy
+
 Visualization: matplotlib, seaborn, plotly
+
 Statistical Analysis: statsmodels
 
 ## Outlier Handling
